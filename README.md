@@ -69,4 +69,7 @@ Tools, naming and overall structure will change for the early pre-release. Many 
 * Delete Feature
 * -+ [flag]
 
-<img width="1024" height="1024" alt="DALL·E-2023-11-20-02 46 07---A-photorealistic-logo-for-the-website-'Testbed-for-Alibre-Design',-with-a-clearer-and-more-legible-title-in-the-design -The-logo-should-have-a-3D,-lif" src="https://github.com/user-attachments/assets/277c7ea3-7bf3-4b2f-ad13-836afb540d6c" />
+<img width="256" height="256" alt="DALL·E-2023-11-20-02 46 07---A-photorealistic-logo-for-the-website-'Testbed-for-Alibre-Design',-with-a-clearer-and-more-legible-title-in-the-design -The-logo-should-have-a-3D,-lif" src="https://github.com/user-attachments/assets/277c7ea3-7bf3-4b2f-ad13-836afb540d6c" />
+
+
+
