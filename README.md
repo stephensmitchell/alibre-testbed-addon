@@ -1,6 +1,4 @@
-**alibre-testbed-addon**
-
- Major refactor is underway.
+Major refactor is underway.
  
 <img width="4214" height="240" alt="image" src="https://github.com/user-attachments/assets/1d42c09f-5e79-49e6-8ef2-61732d2ae897" />
 
