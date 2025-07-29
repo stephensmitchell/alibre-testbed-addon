@@ -1,0 +1,3 @@
+[submodule "alibre-script-adk"]
+	path = alibre-script-adk
+	url = https://github.com/stephensmitchell/alibre-script-adk.git
