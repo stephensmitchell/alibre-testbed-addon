@@ -1,0 +1,10 @@
+﻿<AlibreDesignAddOn specificationVersion="2" friendlyName="Testbed for Alibre Design">
+<Author name="Stephen S. Mitchell" link="https://github.com/stephensmitchell/alibre-testbed-addon"/>
+   <Copyright>Copyright (c) 2024</Copyright>
+   <DLL type="Managed" loadedWhen="Startup" location="alibre-testbed-addon.dll"/>
+   <Icon location="Icons\logo.ico"/> 
+   <Menu text="alibre-testbed-addon"/>
+   <Description>Collection of Alibre Design tools and ideas.</Description> 
+   <Workspace type="Always"/>
+   <Property name="Identifier" value="alibre-testbed-addon"/>
+</AlibreDesignAddOn>

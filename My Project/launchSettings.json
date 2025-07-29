@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Alibre Design 27.0.1.27039\\Program\\Alibre Design.exe"
+    }
+  }
+}
